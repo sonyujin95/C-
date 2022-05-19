@@ -1,0 +1,16 @@
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\bin\Debug\net5.0\PlaceholderDemo.exe
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\bin\Debug\net5.0\PlaceholderDemo.deps.json
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\bin\Debug\net5.0\PlaceholderDemo.runtimeconfig.json
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\bin\Debug\net5.0\PlaceholderDemo.runtimeconfig.dev.json
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\bin\Debug\net5.0\PlaceholderDemo.dll
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\bin\Debug\net5.0\ref\PlaceholderDemo.dll
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\bin\Debug\net5.0\PlaceholderDemo.pdb
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.csproj.AssemblyReference.cache
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.AssemblyInfoInputs.cache
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.AssemblyInfo.cs
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.csproj.CoreCompileInputs.cache
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.dll
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\ref\PlaceholderDemo.dll
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.pdb
+C:\Users\DeepCulus\source\repos\PlaceholderDemo\PlaceholderDemo\obj\Debug\net5.0\PlaceholderDemo.genruntimeconfig.cache

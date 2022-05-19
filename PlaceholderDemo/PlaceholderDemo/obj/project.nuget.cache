@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ir3irHwfnJHQ1v0U/w8PEEo/i3b6PxGqG7EHXbYL9jW0B+4yaVd4sIIxUfSKXdfuLItaCN+vcXgGjFAVHLdq8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeepCulus\\source\\repos\\PlaceholderDemo\\PlaceholderDemo\\PlaceholderDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeepCulus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
