@@ -1,0 +1,15 @@
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\bin\Debug\net5.0\Variables_2.exe
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\bin\Debug\net5.0\Variables_2.deps.json
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\bin\Debug\net5.0\Variables_2.runtimeconfig.json
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\bin\Debug\net5.0\Variables_2.runtimeconfig.dev.json
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\bin\Debug\net5.0\Variables_2.dll
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\bin\Debug\net5.0\ref\Variables_2.dll
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\bin\Debug\net5.0\Variables_2.pdb
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\Variables_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\Variables_2.AssemblyInfoInputs.cache
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\Variables_2.AssemblyInfo.cs
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\Variables_2.csproj.CoreCompileInputs.cache
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\Variables_2.dll
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\ref\Variables_2.dll
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\Variables_2.pdb
+C:\Users\DeepCulus\source\repos\Variables\Variable_2\obj\Debug\net5.0\Variables_2.genruntimeconfig.cache

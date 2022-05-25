@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYrrUhQfbTWllTIyF7+kkn8bYXF5R5ElVp9RMrneLbybtRIiNoG5AMvFaBO8N3Q4rHe9Pc3UKd2kPO5i4oOiOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeepCulus\\source\\repos\\Variables\\Variables\\Variables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeepCulus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
